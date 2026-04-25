@@ -25,3 +25,6 @@
     "vite": "^8.0.10"
   }
 }
+
+git commit -m "message"
+git push origin main
